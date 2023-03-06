@@ -1,1 +1,1 @@
-# pre-commit-comunity
+# pre-commit-tutorial
