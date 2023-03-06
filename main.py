@@ -3,5 +3,5 @@ b = 2
 c = a + b
 
 
-def black(orange, a, b, pink):
+def black(orange, a, b, c, d, e, f, pink):
     pass
